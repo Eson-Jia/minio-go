@@ -24,9 +24,8 @@ import (
 	"context"
 	"log"
 
+	"github.com/Eson-Jia/minio-go/v7/pkg/credentials"
 	"github.com/cheggaaa/pb"
-	"github.com/minio/minio-go/v7"
-	"github.com/minio/minio-go/v7/pkg/credentials"
 )
 
 func main() {

@@ -24,7 +24,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/minio/minio-go/v7/pkg/s3utils"
+	"github.com/Eson-Jia/minio-go/v7/pkg/s3utils"
 )
 
 // ListBuckets list all buckets owned by this authenticated user.
